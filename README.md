@@ -1,2 +1,3 @@
 # odin-recepies
-odin-first-project
+
+This is the first peroject on odin learning platform
